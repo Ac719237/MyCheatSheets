@@ -3,6 +3,7 @@
 
 ### Docker
 Die Ausführung von Anwendungen in Containern funktioniert überall dort, wo eine passende Containerplattform installiert ist.Docker ist eine solche Containerplattform.
+Difference between VM and Containers: https://www.solidfire.com/blog/containers-vs-vms/
 
 ### Kubernetes
 
